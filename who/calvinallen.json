@@ -1,0 +1,25 @@
+{
+  "name": "Calvin A. Allen",
+  "title": "Lead Software Engineer",
+  "links": [
+    "https://www.codingwithcalvin.net"
+  ],
+  "social": [
+    {
+      "site": "github",
+      "username": "calvinallen"
+    },
+    {
+      "site": "twitter",
+      "username": "_CalvinAllen"
+    },
+    {
+      "site": "linkedin",
+      "username": "calvin-allen"
+    },
+    {
+      "site": "twitch",
+      "username": "CodingWithCalvinTV"
+    }
+  ]
+}
