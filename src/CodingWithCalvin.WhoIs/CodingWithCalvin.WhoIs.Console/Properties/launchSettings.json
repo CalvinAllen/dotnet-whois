@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodingWithCalvin.WhoIs.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "calvinallen"
+    }
+  }
+}
