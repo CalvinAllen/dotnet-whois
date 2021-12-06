@@ -9,9 +9,26 @@
 	<ToolCommandName>whois</ToolCommandName>
 	<PackageOutputPath>./nupkg</PackageOutputPath>
 	<StartupObject>CodingWithCalvin.WhoIs.Console.Program</StartupObject>
-	  
   </PropertyGroup>
 
+	<PropertyGroup>
+		<PackageId>CodingWithCalvin.WhoIs</PackageId>
+		<PackageVersion>1.0.0</PackageVersion>
+		<Authors>Calvin A. Allen</Authors>
+		<Description>A fun little global dotnet tool to look up folks in the .NET community that have agreed to share their information.</Description>
+		<RepositoryUrl>https://github.com/CalvinAllen/dotnet-whois</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<PackageTags>whois, tool</PackageTags>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<Title>Who Is</Title>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Compile Remove="nupkg\**" />
+	  <EmbeddedResource Remove="nupkg\**" />
+	  <None Remove="nupkg\**" />
+	</ItemGroup>
+	
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
     <PackageReference Include="Spectre.Console" Version="0.43.0" />
