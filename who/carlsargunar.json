@@ -1,0 +1,23 @@
+{
+  "name": "Carl Sargunar",
+  "title": "CTO",
+  "company": "Mondo Media Ltd.",
+  "links": [
+    "https://carlcod.es",
+    "https://mondo.media"
+  ],
+  "social": [
+    {
+      "site": "github",
+      "username": "carlsargunar"
+    },
+    {
+      "site": "twitter",
+      "username": "carlcod_es"
+    },
+    {
+      "site": "twitch",
+      "username": "carlcod_es"
+    }
+  ]
+}
