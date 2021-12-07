@@ -1,0 +1,22 @@
+{
+  "name": "Bob Fornal",
+  "title": "Senior Solutions Developer",
+  "company": "Leading EDJE, Inc.",
+  "links": [
+    "https://linqapp.com/conference"
+  ],
+  "social": [
+    {
+      "site": "github",
+      "username": "bob-fornal"
+    },
+    {
+      "site": "twitter",
+      "username": "rfornal"
+    },
+    {
+      "site": "linkedin",
+      "username": "rfornal"
+    }
+  ]
+}
